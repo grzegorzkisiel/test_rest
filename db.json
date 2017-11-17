@@ -19,6 +19,9 @@
     "drrField": null,
     "expirationField": "8/29/2016 12:00:00 AM",
     "PropertyChanged": null
+    "nested":{
+      "key":"value"
+    }
   },
   {
     "lfidField": "13365774",
