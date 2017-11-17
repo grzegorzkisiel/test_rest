@@ -18,7 +18,7 @@
     "mac_countField": null,
     "drrField": null,
     "expirationField": "8/29/2016 12:00:00 AM",
-    "PropertyChanged": null
+    "PropertyChanged": null,
     "nested":{
       "key":"value"
     }
